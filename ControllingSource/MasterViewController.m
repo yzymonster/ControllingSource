@@ -198,6 +198,7 @@
             [tableView insertRowsAtIndexPaths:@[newIndexPath] withRowAnimation:UITableViewRowAnimationFade];
             break;
     }
+    //test for commit
 }
 
 - (void)controllerDidChangeContent:(NSFetchedResultsController *)controller
