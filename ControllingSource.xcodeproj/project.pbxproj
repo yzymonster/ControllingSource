@@ -86,13 +86,8 @@
 			children = (
 				A19F391B19A4D49E000E23B8 /* AppDelegate.h */,
 				A19F391C19A4D49E000E23B8 /* AppDelegate.m */,
-				A19F392119A4D49E000E23B8 /* MasterViewController.h */,
-				A19F392219A4D49E000E23B8 /* MasterViewController.m */,
-				A19F392419A4D49E000E23B8 /* DetailViewController.h */,
-				A19F392519A4D49E000E23B8 /* DetailViewController.m */,
-				A19F392719A4D49E000E23B8 /* Main.storyboard */,
-				A19F392A19A4D49E000E23B8 /* Images.xcassets */,
-				A19F391E19A4D49E000E23B8 /* ControllingSource.xcdatamodeld */,
+				A19F394019A4D829000E23B8 /* View Controllers */,
+				A19F394119A4D887000E23B8 /* Resources */,
 				A19F391719A4D49E000E23B8 /* Supporting Files */,
 			);
 			path = ControllingSource;
@@ -122,6 +117,27 @@
 				A19F393519A4D49F000E23B8 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A19F394019A4D829000E23B8 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A19F392119A4D49E000E23B8 /* MasterViewController.h */,
+				A19F392219A4D49E000E23B8 /* MasterViewController.m */,
+				A19F392419A4D49E000E23B8 /* DetailViewController.h */,
+				A19F392519A4D49E000E23B8 /* DetailViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		A19F394119A4D887000E23B8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A19F392719A4D49E000E23B8 /* Main.storyboard */,
+				A19F392A19A4D49E000E23B8 /* Images.xcassets */,
+				A19F391E19A4D49E000E23B8 /* ControllingSource.xcdatamodeld */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
