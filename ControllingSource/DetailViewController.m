@@ -70,6 +70,7 @@
     //test for branch FileOrginizer.
     //test for branch FileOrginizer second.
     //test for branch FileOrginzer third.
+    //test for branch RefactorClassName.
 }
 
 @end
