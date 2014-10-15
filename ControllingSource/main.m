@@ -13,5 +13,5 @@ int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
-    //test for master 1
+    //test for mastea 1
 }
